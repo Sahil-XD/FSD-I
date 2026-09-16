@@ -1,0 +1,3 @@
+Sematic                                Non Sematic
+<strong>..</strong>                   <b>..</b>
+<em>..</em>
